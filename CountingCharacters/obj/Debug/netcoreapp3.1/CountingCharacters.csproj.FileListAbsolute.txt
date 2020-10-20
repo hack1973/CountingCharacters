@@ -1,0 +1,13 @@
+C:\Users\hack1973\Documents\LC-101\csharp\Studios\CountingCharacters\CountingCharacters\bin\Debug\netcoreapp3.1\CountingCharacters.exe
+C:\Users\hack1973\Documents\LC-101\csharp\Studios\CountingCharacters\CountingCharacters\bin\Debug\netcoreapp3.1\CountingCharacters.deps.json
+C:\Users\hack1973\Documents\LC-101\csharp\Studios\CountingCharacters\CountingCharacters\bin\Debug\netcoreapp3.1\CountingCharacters.runtimeconfig.json
+C:\Users\hack1973\Documents\LC-101\csharp\Studios\CountingCharacters\CountingCharacters\bin\Debug\netcoreapp3.1\CountingCharacters.runtimeconfig.dev.json
+C:\Users\hack1973\Documents\LC-101\csharp\Studios\CountingCharacters\CountingCharacters\bin\Debug\netcoreapp3.1\CountingCharacters.dll
+C:\Users\hack1973\Documents\LC-101\csharp\Studios\CountingCharacters\CountingCharacters\bin\Debug\netcoreapp3.1\CountingCharacters.pdb
+C:\Users\hack1973\Documents\LC-101\csharp\Studios\CountingCharacters\CountingCharacters\obj\Debug\netcoreapp3.1\CountingCharacters.AssemblyInfoInputs.cache
+C:\Users\hack1973\Documents\LC-101\csharp\Studios\CountingCharacters\CountingCharacters\obj\Debug\netcoreapp3.1\CountingCharacters.AssemblyInfo.cs
+C:\Users\hack1973\Documents\LC-101\csharp\Studios\CountingCharacters\CountingCharacters\obj\Debug\netcoreapp3.1\CountingCharacters.csproj.CoreCompileInputs.cache
+C:\Users\hack1973\Documents\LC-101\csharp\Studios\CountingCharacters\CountingCharacters\obj\Debug\netcoreapp3.1\CountingCharacters.dll
+C:\Users\hack1973\Documents\LC-101\csharp\Studios\CountingCharacters\CountingCharacters\obj\Debug\netcoreapp3.1\CountingCharacters.pdb
+C:\Users\hack1973\Documents\LC-101\csharp\Studios\CountingCharacters\CountingCharacters\obj\Debug\netcoreapp3.1\CountingCharacters.genruntimeconfig.cache
+C:\Users\hack1973\Documents\LC-101\csharp\Studios\CountingCharacters\CountingCharacters\obj\Debug\netcoreapp3.1\CountingCharacters.csprojAssemblyReference.cache
